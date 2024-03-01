@@ -1,0 +1,12 @@
+xrun(64): 20.03-s010: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	20.03-s010: Started on Feb 23, 2024 at 13:10:30 +07
+xrun
+	-access rw
+	-licqueue
+	-64BIT
+	-l run.log
+	bound_flasher.v
+	testbench.v
+xrun: *E,FILEMIS: Cannot find the provided file bound_flasher.v.
+xrun: *E,FILEMIS: Cannot find the provided file testbench.v.
+TOOL:	xrun(64)	20.03-s010: Exiting on Feb 23, 2024 at 13:10:30 +07  (total: 00:00:00)
